@@ -4,3 +4,7 @@
   - syntax highlighting
   - run the code against some tests, to verify the output
   - put restriction on lines of code in the editor, restrictions on line length, restrict some keywords
+ 
+
+# long term game 
+becoem a major website for python learning 
