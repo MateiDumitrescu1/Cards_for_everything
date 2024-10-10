@@ -1,0 +1,6 @@
+make the error val turn the borders of the editor red or something, and show the message
+
+make a run code button
+
+make a reset code button
+make a hint button
