@@ -1,10 +1,20 @@
-# Python_Cards
+# Everything Cards
+---- gamify learning
+  - python, numphy and in general programming language concepts, functions, advanced syntax etc
+  - algs, like KMP (scrii codul, dupa sunt intrebari care te intreaba ce face linia asta, ce face linia aia, etc.... tu trb sa scrii in comentarii)
+  - theory about ML (backprop, stochastic gradient descent), with follow-up questions  - theory about Deep Learning 
+  - data engineering tasks (processing some things, also theory parts)
+  - depp learning theory (wwhat is the pooling layer, etc....)
+  - image processsing tasks
+  - explain formulas from ML models
+  - questions like what is the difference between YOLO and CNN (for computer vision)?
 
+- code comentarry questions, multiple choice, code editor questions
 - make a code editor, users can write code
   - syntax highlighting
   - run the code against some tests, to verify the output
   - put restriction on lines of code in the editor, restrictions on line length, restrict some keywords
  
-
+# make an MVP and then ask people to help!!
 # long term game 
 becoem a major website for python learning 
