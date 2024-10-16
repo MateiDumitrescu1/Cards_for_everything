@@ -1,5 +1,5 @@
 # Everything Cards
----- gamify learning
+---- gamify learning, skill tree with t he topics that you must maintain
   - python, numphy and in general programming language concepts, functions, advanced syntax etc
   - algs, like KMP, Kruskal, Dijkstra, SLiding window algs (scrii codul, dupa sunt intrebari care te intreaba ce face linia asta, ce face linia aia, etc.... tu trb sa scrii in comentarii)
   - theory about ML (backprop, stochastic gradient descent), with follow-up questions  - theory about Deep Learning 
