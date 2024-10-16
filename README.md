@@ -8,6 +8,8 @@
   - image processsing tasks
   - explain formulas from ML models
   - questions like what is the difference between YOLO and CNN (for computer vision)?
+  - learn a topic, then be given short questions about it
+  - explain soemthing to someone, have gemini API say if it is correct or not 
 
 - code comentarry questions, multiple choice, code editor questions
 - make a code editor, users can write code
