@@ -9,7 +9,8 @@
   - explain formulas from ML models, say what the variables do
   - questions like what is the difference between YOLO and CNN (for computer vision)?
   - learn a topic, then be given short questions about it
-  - explain soemthing to someone, have gemini API say if it is correct or not 
+  - explain soemthing to someone, have gemini API say if it is correct or not
+  - bash scripts
 
 - code comentarry questions, multiple choice, code editor questions
 - make a code editor, users can write code
